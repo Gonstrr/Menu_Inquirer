@@ -1,0 +1,19 @@
+{
+  "name": "menu-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "inquirer-date-prompt": "^2.0.1",
+    "inquirer-datepicker-prompt": "^0.4.2",
+    "inquirer-select-line": "^1.1.3",
+    "inquirer-table-prompt": "^0.2.1"
+  }
+}
